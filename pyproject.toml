@@ -1,6 +1,6 @@
 [project]
-name = "station_data"
-version = "0.1.0"
+name = "stationdata"
+version = "0.1.1"
 authors = [
   { name="ROGERIO P. DOS SANTOS", email="rogerio.dosantos@ifpr.edu.br" },
 ]

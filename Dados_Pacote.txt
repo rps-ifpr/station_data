@@ -1,0 +1,26 @@
+Código da estação meteorológica
+Data (dd/MM/AAAA)
+Hora (%H%M)
+Precipitação (mm)
+Temperatura de bulbo seco (ºC)
+Temperatura de bulbo úmido (ºC)
+Máxima temperature (ºC)
+Temperatura mínima (ºC)
+Umidade Relativa (%)
+Pressão Atmosférica da Estação (mbar)
+Pressão Atmosférica ao Nível do Mar (mbar)
+Direção do Vento (tabela)
+Velocidade do Vento(m/ s)
+Insolação (hs)
+Nebulosidade (décimos)
+Piche Evaporação (mm)
+Temperatura Média Compensada (ºC)
+Umidade Relativa Média (%)
+Velocidade Média do Vento (mps)
+
+Token para "top10-agricultura_precisao"
+pypi-AgEIcHlwaS5vcmcCJDVmNGVmZjIwLTM0NDgtNDAzMC1hMjQ4LTk4OTYwNGVkYzczNwACKlszLCIyOWU3ZGQ3Mi0zNzA1LTQ4MjctOTMwZC1iM2Q1OGRlYzUyYjIiXQAABiAPkwM1VF2a7nUSde_YvCmjIUcgJAb3Qxc9bLhyiDlISg
+
+[pypi]
+  username = __token__
+  password = pypi-AgEIcHlwaS5vcmcCJDVmNGVmZjIwLTM0NDgtNDAzMC1hMjQ4LTk4OTYwNGVkYzczNwACKlszLCIyOWU3ZGQ3Mi0zNzA1LTQ4MjctOTMwZC1iM2Q1OGRlYzUyYjIiXQAABiAPkwM1VF2a7nUSde_YvCmjIUcgJAb3Qxc9bLhyiDlISg

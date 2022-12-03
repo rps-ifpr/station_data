@@ -1,6 +1,6 @@
 [project]
 name = "station_data"
-version = "0.0.1"
+version = "0.1.0"
 authors = [
   { name="ROGERIO P. DOS SANTOS", email="rogerio.dosantos@ifpr.edu.br" },
 ]
@@ -16,3 +16,7 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/pypa/sampleproject"
 "Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -18,12 +18,5 @@ Temperatura Média Compensada (ºC)
 Umidade Relativa Média (%)
 Velocidade Média do Vento (mps)
 
-Token para "top10-agricultura_precisao"
-pypi-AgEIcHlwaS5vcmcCJDVmNGVmZjIwLTM0NDgtNDAzMC1hMjQ4LTk4OTYwNGVkYzczNwACKlszLCIyOWU3ZGQ3Mi0zNzA1LTQ4MjctOTMwZC1iM2Q1OGRlYzUyYjIiXQAABiAPkwM1VF2a7nUSde_YvCmjIUcgJAb3Qxc9bLhyiDlISg
-
-[pypi]
-  username = __token__
-  password = pypi-AgEIcHlwaS5vcmcCJDVmNGVmZjIwLTM0NDgtNDAzMC1hMjQ4LTk4OTYwNGVkYzczNwACKlszLCIyOWU3ZGQ3Mi0zNzA1LTQ4MjctOTMwZC1iM2Q1OGRlYzUyYjIiXQAABiAPkwM1VF2a7nUSde_YvCmjIUcgJAb3Qxc9bLhyiDlISg
-
 packaging_tutorial
 https://packaging.python.org/en/latest/tutorials/packaging-projects/

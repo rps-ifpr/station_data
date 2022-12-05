@@ -37,7 +37,7 @@ O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata
 <p align="justify">
 Entenda os conceitos e técnicas de pré-processamento de dados usadas para transformação dos dados brutos em um formato aplicável. Acesse o link e saiba mais https://brain-mentors.com/concepts-of-data-pre-processing.
 <p align="justify">
-`Observação:` Este trabalho esta sendo finalizado e facilitará o processo de tratamento dos dados de estações meteorológica convencionais e também poderá ser aplicada ou convertida para estações meteorológicas automáticas.
+:heavy_check_mark:`Observação:` Este trabalho esta sendo finalizado e facilitará o processo de tratamento dos dados de estações meteorológica convencionais e também poderá ser aplicada ou convertida para estações meteorológicas automáticas.
 
 ## Funcionalidades
 
@@ -73,4 +73,4 @@ O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o pro
 
 ## Desenvolvedor
 
-| [<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogerio Santos Alves</sub>](https://github.com/rps-ifpr) 
+[<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogério Santos</sub>](https://github.com/rps-ifpr) 

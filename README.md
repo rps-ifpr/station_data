@@ -65,11 +65,26 @@ Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/stat
 
 Para instalar o pacote, você deve abrir com o `Pycharm ou Jupyter Notebook`. Para isso, você deve ter instalado o Python ultima versão em sua máquina:
 
-- `Open an Existing Project` (ou alguma opção similar);
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
-- Por fim clique em `OK`.
+###User installation
+   
+- The easiest way to install stationdata is with pip
+   
+- `pip install stationdata` 
+   
+ Se você está tendo dificuldade em instalar as versões corretas do pacote, pode configurar um ambiente virtual como este:
+1- pip install virtualenv
+2- virtualenv env
+3- source env/bin/activate
+4- curl https://bootstrap.pypa.io/get-pip.py | python3
+5- pip install irrigation30
+6- pip install ipykernel
+7- ipython kernel install --user --name=env
+8- jupyter notebook
+9- When finished, deactivate your virtualenv with deactivate   
+   
 
-O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
+
+O `stationdata` 🏆 
 
 ## Desenvolvedor
 

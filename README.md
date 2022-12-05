@@ -26,28 +26,28 @@
 
 ## Descrição do projeto 
 <p align="justify">
-Projeto em desenvolvimento é uma biblioteca em Python para realizar pré-processamento de Dados em estação meteorológica convencionais. O Stationdata é uma biblioteca ou pacote em Python que tem objetivo de auxiliar desenvolvedores e profissionais que buscam tratar e limpar os dados aplicados em Machine Learning para irrigação de precisão.
+Projeto em desenvolvimento é uma biblioteca/pacote em Python com finalidade de realizar o pré-processamento de dados de estação meteorológica convencionais. O Stationdata é um pacote em Python que tem o objetivo principal de auxiliar desenvolvedores ou profissionais que buscam tratar e limpar os dados de estação meteorológica e aplicar para modelo de Machine Learning voltados exclusivamente para irrigação de precisão.
 <p align="justify">   
-O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata/) permitirá o pré-processamento diário, contínuo e remoto das coletas realizadas por estações meteorológica convencionais, possibilitando que profissionais, desenvolvedores aplique os dados de maneira rápida.
+O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata/) permitirá o pré-processamento diário, contínuo e remoto das coletas realizadas por estações meteorológica convencionais,possibilitando que profissionais e desenvolvedores apliquem em seus trabalhos de maneira rápida e aplicada.
 
 ## Aplicação 
  
 ![Descrição do projeto Stationdata](https://user-images.githubusercontent.com/91737931/205759438-31590caa-2b14-4d01-9322-8964f96ea821.png)
 </p>
 <p align="justify">
-Entenda os conceitos e técnicas de pré-processamento de dados usadas para transformar dados brutos em um formato aplicável. Acesse o link e saiba mais https://brain-mentors.com/concepts-of-data-pre-processing.
+Entenda os conceitos e técnicas de pré-processamento de dados usadas para transformação dos dados brutos em um formato aplicável. Acesse o link e saiba mais https://brain-mentors.com/concepts-of-data-pre-processing.
 <p align="justify">
-Observação: Este trabalho sendo finalizado facilitara este processo de tratamento dos dados de estações meteorológica convencionais e também poderá ser aplicada para estações meteorológicas automáticas.
+Observação: Este trabalho esta sendo finalizado e facilitará o processo de tratamento dos dados de estações meteorológica convencionais e também poderá ser aplicada ou convertida para estações meteorológicas automáticas.
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Realizar cadastro dos usuários, podendo ser paciente ou profissional de saúde.
+:heavy_check_mark: `Funcionalidade 1:` Realizar limpeza dos dados.
 
-:heavy_check_mark: `Funcionalidade 2:` Armazenar dados do usuário, como glicemia, atividade física, alimentação, medicação, administração de insulina e peso no banco de dados na Cloud Firestore.
+:heavy_check_mark: `Funcionalidade 2:`
 
-:heavy_check_mark: `Funcionalidade 3:` Plotar gráfico com histórico dos níveis glicêmicos do paciente.
+:heavy_check_mark: `Funcionalidade 3:`
 
-:heavy_check_mark: `Funcionalidade 4:` Chat com entre o paciente e profissional da saúde.
+:heavy_check_mark: `Funcionalidade 4:` 
 
 ###
 
@@ -63,9 +63,9 @@ Observação: Este trabalho sendo finalizado facilitara este processo de tratame
 
 Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) ou acessar o projeto no PyPi no link https://pypi.org/project/stationdata/
 
-## Abrir e rodar o projeto
+## Instalar o Pacote e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o `Android Studio`. Para isso, na tela de launcher clique em:
+Para instalar o pacote, você deve abrir com o `Pycharm ou Jupyter Notebook`. Para isso, você deve ter instalado o Python ultima versão em sua máquina:
 
 - `Open an Existing Project` (ou alguma opção similar);
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);

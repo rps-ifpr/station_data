@@ -77,5 +77,5 @@ O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o pro
 
 ## Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/rps-ifpr) ||
+| [<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogerio Santos Alves</sub>](https://github.com/rps-ifpr) ||
 | :---: | :---: 

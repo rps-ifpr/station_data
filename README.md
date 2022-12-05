@@ -20,9 +20,9 @@
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+- [Instalar e rodar o pacote](#instalar-e-rodar-o-pacote)
 
-- [Desenvolvedores](#desenvolvedores)
+- [Desenvolvedor](#desenvolvedor)
 
 ## Descrição do projeto 
 <p align="justify">
@@ -37,7 +37,7 @@ O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata
 <p align="justify">
 Entenda os conceitos e técnicas de pré-processamento de dados usadas para transformação dos dados brutos em um formato aplicável. Acesse o link e saiba mais https://brain-mentors.com/concepts-of-data-pre-processing.
 <p align="justify">
-Observação: Este trabalho esta sendo finalizado e facilitará o processo de tratamento dos dados de estações meteorológica convencionais e também poderá ser aplicada ou convertida para estações meteorológicas automáticas.
+'Observação:' Este trabalho esta sendo finalizado e facilitará o processo de tratamento dos dados de estações meteorológica convencionais e também poderá ser aplicada ou convertida para estações meteorológicas automáticas.
 
 ## Funcionalidades
 
@@ -63,7 +63,7 @@ Observação: Este trabalho esta sendo finalizado e facilitará o processo de tr
 
 Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) ou acessar o projeto no PyPi no link https://pypi.org/project/stationdata/
 
-## Instalar o Pacote e rodar o projeto
+## Instalar e rodar o pacote
 
 Para instalar o pacote, você deve abrir com o `Pycharm ou Jupyter Notebook`. Para isso, você deve ter instalado o Python ultima versão em sua máquina:
 

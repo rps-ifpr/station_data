@@ -2,23 +2,32 @@
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
-### Pre-processing data from conventional weather stations
+Pre-processing data from conventional weather stations
 <hr>
-### Tópicos 
+
+## Tópicos 
+
 - [Descrição do projeto](#descrição-do-projeto)
+
 - [Funcionalidades](#funcionalidades)
+
 - [Aplicação](#aplicação)
+
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
+
 - [Acesso ao projeto](#acesso-ao-projeto)
+
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+
 - [Desenvolvedores](#desenvolvedores)
 
 ## Descrição do projeto 
 <p align="justify">
 Projeto em desenvolvimento é uma biblioteca em Python para realizar pre-processamento de Dados em estação metereologica convencionais. O Stationdata é uma biblioteca ou pacote em Python que tem objetivo de auxiliar desenvolvedores e profissionais que buscam tratar e limpar os dados aplicados em Machine Learning para irrigação de precisão.
-O pacote esta disponivel no [Pypisistema](https://pypi.org/project/stationdata/) permitirá o pre-processamento diário, contínuo e remoto das coletas relizadas por estacoes metereologica convencionais, possibilitando que profissionais, desenvolvedores aplique os dados de maneira rápida.
+   
+O pacote esta disponivel no [Pypisistema](https://pypi.org/project/stationdata/) permitirá o pre-processamento diário, contínuo e remoto das coletas relizadas por estações metereologica convencionais, possibilitando que profissionais, desenvolvedores aplique os dados de maneira rápida.
 
-![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
+![Descrição do projeto Stationdata](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
 </p>
 
 ## Funcionalidades

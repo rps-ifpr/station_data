@@ -30,6 +30,8 @@ Projeto em desenvolvimento é uma biblioteca em Python para realizar pré-proces
 <p align="justify">   
 O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata/) permitirá o pré-processamento diário, contínuo e remoto das coletas realizadas por estações meteorológica convencionais, possibilitando que profissionais, desenvolvedores aplique os dados de maneira rápida.
 
+## Aplicação 
+ 
 ![Descrição do projeto Stationdata](https://user-images.githubusercontent.com/91737931/205759438-31590caa-2b14-4d01-9322-8964f96ea821.png)
 </p>
 
@@ -43,14 +45,6 @@ O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata
 
 :heavy_check_mark: `Funcionalidade 4:` Chat com entre o paciente e profissional da saúde.
 
-## Aplicação
-
-<div align="center">
-
-![Android Emulator](https://user-images.githubusercontent.com/37356058/135944390-ec96d4ec-ee43-4db9-882f-89be66aad23a.gif)
-
-  </div>
-
 ###
 
 ## Ferramentas utilizadas
@@ -63,7 +57,7 @@ O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) ou [acessar o projeto no PyPi] (https://pypi.org/project/stationdata/)
+Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) ou acessar o projeto no PyPi no link https://pypi.org/project/stationdata/
 
 ## Abrir e rodar o projeto
 

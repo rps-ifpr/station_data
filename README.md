@@ -34,6 +34,10 @@ O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata
  
 ![Descrição do projeto Stationdata](https://user-images.githubusercontent.com/91737931/205759438-31590caa-2b14-4d01-9322-8964f96ea821.png)
 </p>
+<p align="justify">
+Entenda os conceitos e técnicas de pré-processamento de dados usadas para transformar dados brutos em um formato aplicável. Acesse o link e saiba mais https://brain-mentors.com/concepts-of-data-pre-processing.
+<p align="justify">
+Observação: Este trabalho sendo finalizado facilitara este processo de tratamento dos dados de estações meteorológica convencionais e também poderá ser aplicada para estações meteorológicas automáticas.
 
 ## Funcionalidades
 

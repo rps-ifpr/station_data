@@ -1,5 +1,6 @@
-# station_data
- Pre-processing data from conventional weather stations
+# stationdata 0.1.0
+## pip install stationdata
+### Pre-processing data from conventional weather stations
 
 # Índice 
 

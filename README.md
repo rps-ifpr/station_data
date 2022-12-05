@@ -1,4 +1,4 @@
-# stationdata 0.1.0
+# Stationdata 0.1.0
 ## pip install stationdata
 ### Pre-processing data from conventional weather stations
 

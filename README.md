@@ -55,8 +55,8 @@ O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata
 
 ## Ferramentas utilizadas
 
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/pt-br/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/91737931/205761808-6584fc52-0494-41dd-ae16-8e303a314a6a.png" alt="Python" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/pt-br/" target="_blank"> <img src="https://user-images.githubusercontent.com/91737931/205761156-27834c97-a75d-4c7a-89fe-7549f0fcc219.png" alt="Pycharm" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
 
 ###

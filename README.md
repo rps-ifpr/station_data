@@ -73,7 +73,6 @@ Após baixar o projeto, você pode abrir com o `Android Studio`. Para isso, na t
 
 O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
 
-## Desenvolvedores
+## Desenvolvedor
 
-| [<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogerio Santos Alves</sub>](https://github.com/rps-ifpr) ||
-| :---: | :---: 
+| [<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogerio Santos Alves</sub>](https://github.com/rps-ifpr) 

@@ -26,11 +26,11 @@
 
 ## Descrição do projeto 
 <p align="justify">
-Projeto em desenvolvimento é uma biblioteca em Python para realizar pre-processamento de Dados em estação metereologica convencionais. O Stationdata é uma biblioteca ou pacote em Python que tem objetivo de auxiliar desenvolvedores e profissionais que buscam tratar e limpar os dados aplicados em Machine Learning para irrigação de precisão.
-   
-O pacote esta disponivel no [Pypisistema](https://pypi.org/project/stationdata/) permitirá o pre-processamento diário, contínuo e remoto das coletas relizadas por estações metereologica convencionais, possibilitando que profissionais, desenvolvedores aplique os dados de maneira rápida.
+Projeto em desenvolvimento é uma biblioteca em Python para realizar pré-processamento de Dados em estação meteorológica convencionais. O Stationdata é uma biblioteca ou pacote em Python que tem objetivo de auxiliar desenvolvedores e profissionais que buscam tratar e limpar os dados aplicados em Machine Learning para irrigação de precisão.
+<p align="justify">   
+O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata/) permitirá o pré-processamento diário, contínuo e remoto das coletas realizadas por estações meteorológica convencionais, possibilitando que profissionais, desenvolvedores aplique os dados de maneira rápida.
 
-![Descrição do projeto Stationdata](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
+![Descrição do projeto Stationdata](https://user-images.githubusercontent.com/91737931/205759438-31590caa-2b14-4d01-9322-8964f96ea821.png)
 </p>
 
 ## Funcionalidades

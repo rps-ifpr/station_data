@@ -63,7 +63,7 @@ O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) e no link (https://pypi.org/project/stationdata/)
+Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) ou [acessar o projeto no PyPi] (https://pypi.org/project/stationdata/)
 
 ## Abrir e rodar o projeto
 

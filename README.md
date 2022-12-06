@@ -3,7 +3,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 <p align="center">
-    Preprocessing data from conventional weather stations
+    Pre-processing data from conventional weather stations
 </p>
                              
 <hr>
@@ -59,11 +59,11 @@ Understand data pre-processing concepts and techniques used to transform raw dat
 
 ## Project access
 
-You may [access the project source code](https://github.com/rps-ifpr/station_data) or access the project on PyPi at the linkhttps://pypi.org/project/onestation/
+You may [access the project source code](https://github.com/rps-ifpr/station_data) or access the project on PyPi at the link https://pypi.org/project/onestation/  
 
 ## Install and run the package
 
-Para instalar o pacote você deve usar `Pycharm ou Jupyter Notebook`. Para isso, você deve ter instalado o Python última versão em sua máquina:
+To install the package you must use `Pycharm or Jupyter Notebook`. For this, you must have the latest version of Python installed on your machine:
 
 ### User installation
    
@@ -71,7 +71,7 @@ The easiest way to install `onestation` is with `pip`
    
 `pip install onestation` 
    
-#### Se você está tendo dificuldade em instalar as versões corretas do pacote, pode configurar um ambiente virtual como este:
+#### If you are having difficulty installing the correct package versions, you can set up a virtual environment like this:
   
    1- pip install virtualenv
    
@@ -93,13 +93,13 @@ The easiest way to install `onestation` is with `pip`
    
 ### Use
 
-Para obter um tutorial completo de como o pacote é usado em notebooks Jupyter, consulte nossa demonstração de notebook Jupyter https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb
+For a complete tutorial on how the package is used in Jupyter notebooks, see our Jupyter notebook demo https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb
  
-Para obter mais informações sobre a base de dados utilizada nos testes e poder baixar o dataset consulte o link: https://www.kaggle.com/datasets/rogerioifpr/brazil-weather-conventional-stations-19612019
+For more information about the database used in the tests and to be able to download the dataset, see the link: https://www.kaggle.com/datasets/rogerioifpr/brazil-weather-conventional-stations-19612019
    
 ### Help and Support
    
-Para obter ajuda com o uso ou instalação do pacote, entre em contato com Rogerio Pereira do Santos <rogerio.dosantos@ifpr.edu.br>
+For help with using or installing the package, contact Rogerio Pereira do Santos <rogerio.dosantos@ifpr.edu.br>
    
 ## Developer
 [<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogério Santos</sub>](https://github.com/rps-ifpr) 

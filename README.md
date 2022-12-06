@@ -67,9 +67,9 @@ Para instalar o pacote você deve usar `Pycharm ou Jupyter Notebook`. Para isso,
 
 ### User installation
    
-The easiest way to install `stationdata` is with `pip`
+The easiest way to install `WeatherStation` is with `pip`
    
-`pip install stationdata` 
+`pip install WeatherStation` 
    
 #### Se você está tendo dificuldade em instalar as versões corretas do pacote, pode configurar um ambiente virtual como este:
   
@@ -81,7 +81,7 @@ The easiest way to install `stationdata` is with `pip`
    
    4- curl https://bootstrap.pypa.io/get-pip.py | python3
    
-   5- pip install stationdata
+   5- pip install WeatherStation
    
    6- pip install ipykernel
    

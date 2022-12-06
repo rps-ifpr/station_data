@@ -1,4 +1,4 @@
-# Stationdata 0.1.0
+# WeatherStation 0.1.0
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
@@ -28,11 +28,11 @@
 <p align="justify">
 Projeto em desenvolvimento é uma biblioteca/pacote em Python com finalidade de realizar o pré-processamento de dados de estação meteorológica convencionais. O Stationdata é um pacote em Python que tem o objetivo principal de auxiliar desenvolvedores ou profissionais que buscam tratar e limpar os dados de estação meteorológica e aplicar para modelo de Machine Learning voltados exclusivamente para irrigação de precisão.
 <p align="justify">   
-O pacote está disponível no [Pypisistema](https://pypi.org/project/stationdata/) permitirá o pré-processamento diário, contínuo e remoto das coletas realizadas por estações meteorológica convencionais,possibilitando que profissionais e desenvolvedores apliquem em seus trabalhos de maneira rápida e aplicada.
+O pacote está disponível no [Pypisistema](https://pypi.org/project/WeatherStation/) permitirá o pré-processamento diário, contínuo e remoto das coletas realizadas por estações meteorológica convencionais,possibilitando que profissionais e desenvolvedores apliquem em seus trabalhos de maneira rápida e aplicada.
 
 ## Aplicação 
  
-![Descrição do projeto Stationdata](https://user-images.githubusercontent.com/91737931/205759438-31590caa-2b14-4d01-9322-8964f96ea821.png)
+![Descrição do projeto WeatherStation](https://user-images.githubusercontent.com/91737931/205759438-31590caa-2b14-4d01-9322-8964f96ea821.png)
 </p>
 <p align="justify">
 Entenda os conceitos e técnicas de pré-processamento de dados usadas para transformação dos dados brutos em um formato aplicável. Acesse o link e saiba mais https://brain-mentors.com/concepts-of-data-pre-processing.

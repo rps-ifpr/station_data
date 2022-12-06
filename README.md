@@ -96,7 +96,7 @@ The easiest way to install `stationdata` is with `pip`
 Para obter um tutorial completo de como o pacote é usado em notebooks Jupyter, consulte nossa demonstração de notebook Jupyter https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb
    
 <p align="justify">   
-Para obter mais informações sobre a base de dados utilizada nos testes e poder baixar o dataset consulte o link: (https://www.kaggle.com/datasets/rogerioifpr/brazil-weather-conventional-stations-19612019).
+Para obter mais informações sobre a base de dados utilizada nos testes e poder baixar o dataset consulte o link: https://www.kaggle.com/datasets/rogerioifpr/brazil-weather-conventional-stations-19612019
    
 ### Ajuda e Suporte
    

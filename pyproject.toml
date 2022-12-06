@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = [
   { name="ROGERIO P. DOS SANTOS", email="rogerio.dosantos@ifpr.edu.br" },
 ]
-description = "This package aims to carry out a pre-processing of conventional weather stations"
+description = "This package aims to carry out a preprocessing of conventional weather stations"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [

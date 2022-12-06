@@ -1,1 +1,18 @@
-pipenv install requests
+#pipenv install requests
+
+# Importando os pacotes 
+import numpy as np
+import pandas as pd
+import matplotlib as mat
+import matplotlib.pyplot as plt
+#graficos com aparencia profissional
+import colorsys
+#estilo  usando seaborn-talk
+plt.style.use('seaborn-talk')
+%matplotlib inline
+import plotly.express as px
+import plotly.graph_objects as go
+import scipy as sci
+import seaborn as sns
+import warnings
+warnings.filterwarnings("ignore")

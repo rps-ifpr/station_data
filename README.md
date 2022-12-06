@@ -32,20 +32,20 @@ The package is available on [Pypisistema](https://pypi.org/project/onestation/) 
 
 ## Application
  
-![Descrição do projeto Onestation](https://user-images.githubusercontent.com/91737931/205759438-31590caa-2b14-4d01-9322-8964f96ea821.png)
+![Onestation project description](https://user-images.githubusercontent.com/91737931/205759438-31590caa-2b14-4d01-9322-8964f96ea821.png)
 </p>
 <p align="justify">
-Entenda os conceitos e técnicas de pré-processamento de dados usadas para transformação dos dados brutos em um formato aplicável. Acesse o link e saiba mais https://brain-mentors.com/concepts-of-data-pre-processing.
+Understand data pre-processing concepts and techniques used to transform raw data into an applicable format. Visit the link and learn more https://brain-mentors.com/concepts-of-data-pre-processing.
 <p align="justify">
-☑️Observação: Este trabalho esta sendo finalizado e facilitará o processo de tratamento dos dados de estações meteorológica convencionais e também poderá ser aplicada ou convertida para estações meteorológicas automáticas.
+☑️Note: This work is being finalized and will facilitate the process of processing data from conventional meteorological stations and can also be applied or converted to automatic meteorological stations.
 
 ## Functionalities
 
-:heavy_check_mark: `Functionalities 1:` Realizar a limpeza dos dados.
+:heavy_check_mark: `Functionalities 1:` Perform data cleaning.
 
-:heavy_check_mark: `Functionalities 2:` Realizar a transformação dos dados.
+:heavy_check_mark: `Functionalities 2:` Perform data transformation.
 
-:heavy_check_mark: `Functionalities 3:` Aplicar a redução dos dados.
+:heavy_check_mark: `Functionalities 3:` Apply data reduction.
 
 ###
 
@@ -59,7 +59,7 @@ Entenda os conceitos e técnicas de pré-processamento de dados usadas para tran
 
 ## Project access
 
-Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) ou acessar o projeto no PyPi no link https://pypi.org/project/onestation/
+You may [access the project source code](https://github.com/rps-ifpr/station_data) or access the project on PyPi at the linkhttps://pypi.org/project/onestation/
 
 ## Install and run the package
 

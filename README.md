@@ -8,29 +8,29 @@
                              
 <hr>
 
-## Tópicos 
+## Topics
 
-- [Descrição do projeto](#descrição-do-projeto)
+- [Project description](#project-description)
 
-- [Funcionalidades](#funcionalidades)
+- [Functionalities](#functionalities)
 
-- [Aplicação](#aplicação)
+- [Application](#application)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Tools used](#tools-used)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
+- [Project access](#project-access)
 
-- [Instalar e rodar o pacote](#instalar-e-rodar-o-pacote)
+- [Install and run the package](#install-and-run-the-package)
 
-- [Desenvolvedor](#desenvolvedor)
+- [Developer](#developer)
 
-## Descrição do projeto 
+## Project description
 <p align="justify">
-Projeto em desenvolvimento é uma biblioteca/pacote em Python com finalidade de realizar o pré processamento de dados de estação meteorológica convencionais. O Onestation é um pacote em Python que tem o objetivo principal de auxiliar desenvolvedores ou profissionais que buscam tratar e limpar os dados de estação meteorológica e aplicar para modelo de Machine Learning voltados exclusivamente para irrigação de precisão.
+The project under development is a library/package in Python with the purpose of pre-processing conventional weather station data. One station is a Python package that has the main objective of helping developers or professionals who seek to treat and clean weather station data and apply it to a Machine Learning model aimed exclusively at precision irrigation.
 <p align="justify">   
-O pacote está disponível no [Pypisistema](https://pypi.org/project/onestation/) permitirá o pré-processamento diário, contínuo e remoto das coletas realizadas por estações meteorológica convencionais,possibilitando que profissionais e desenvolvedores apliquem em seus trabalhos de maneira rápida e aplicada.
+The package is available on [Pypisistema](https://pypi.org/project/onestation/) it will allow the daily, continuous and remote pre-processing of the collections carried out by conventional meteorological stations, allowing professionals and developers to apply them in their work in a fast and applied way.
 
-## Aplicação 
+## Application
  
 ![Descrição do projeto Onestation](https://user-images.githubusercontent.com/91737931/205759438-31590caa-2b14-4d01-9322-8964f96ea821.png)
 </p>
@@ -39,17 +39,17 @@ Entenda os conceitos e técnicas de pré-processamento de dados usadas para tran
 <p align="justify">
 ☑️Observação: Este trabalho esta sendo finalizado e facilitará o processo de tratamento dos dados de estações meteorológica convencionais e também poderá ser aplicada ou convertida para estações meteorológicas automáticas.
 
-## Funcionalidades
+## Functionalities
 
-:heavy_check_mark: `Funcionalidade 1:` Realizar a limpeza dos dados.
+:heavy_check_mark: `Functionalities 1:` Realizar a limpeza dos dados.
 
-:heavy_check_mark: `Funcionalidade 2:` Realizar a transformação dos dados.
+:heavy_check_mark: `Functionalities 2:` Realizar a transformação dos dados.
 
-:heavy_check_mark: `Funcionalidade 3:` Aplicar a redução dos dados.
+:heavy_check_mark: `Functionalities 3:` Aplicar a redução dos dados.
 
 ###
 
-## Ferramentas utilizadas
+## Tools used
 
 <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/91737931/205761808-6584fc52-0494-41dd-ae16-8e303a314a6a.png" alt="Python" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pt-br/" target="_blank"> <img src="https://user-images.githubusercontent.com/91737931/205761156-27834c97-a75d-4c7a-89fe-7549f0fcc219.png" alt="Pycharm" width="40" height="40"/> </a> 
@@ -57,11 +57,11 @@ Entenda os conceitos e técnicas de pré-processamento de dados usadas para tran
 
 ###
 
-## Acesso ao projeto
+## Project access
 
 Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) ou acessar o projeto no PyPi no link https://pypi.org/project/onestation/
 
-## Instalar e rodar o pacote
+## Install and run the package
 
 Para instalar o pacote você deve usar `Pycharm ou Jupyter Notebook`. Para isso, você deve ter instalado o Python última versão em sua máquina:
 
@@ -91,15 +91,15 @@ The easiest way to install `onestation` is with `pip`
    
    9- When finished, deactivate your virtualenv with deactivate 
    
-### Uso
+### Use
 
 Para obter um tutorial completo de como o pacote é usado em notebooks Jupyter, consulte nossa demonstração de notebook Jupyter https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb
  
 Para obter mais informações sobre a base de dados utilizada nos testes e poder baixar o dataset consulte o link: https://www.kaggle.com/datasets/rogerioifpr/brazil-weather-conventional-stations-19612019
    
-### Ajuda e Suporte
+### Help and Support
    
 Para obter ajuda com o uso ou instalação do pacote, entre em contato com Rogerio Pereira do Santos <rogerio.dosantos@ifpr.edu.br>
    
-## Desenvolvedor
+## Developer
 [<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogério Santos</sub>](https://github.com/rps-ifpr) 

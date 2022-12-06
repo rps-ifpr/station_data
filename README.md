@@ -103,5 +103,4 @@ Para obter mais informações sobre a base de dados utilizada para os testes e b
 Para obter ajuda com o uso ou instalação do pacote, entre em contato com Rogerio Pereira do Santos <rogerio.dosantos@ifpr.edu.br>
    
 ## Desenvolvedor
-<p align="justify">
 [<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogério Santos</sub>](https://github.com/rps-ifpr) 

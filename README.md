@@ -89,12 +89,19 @@ The easiest way to install `stationdata` is with `pip`
    
    8- jupyter notebook
    
-   9- When finished, deactivate your virtualenv with deactivate   
-
-🏆 Para obter um tutorial completo de como o pacote é usado em notebooks Jupyter, consulte nossa demonstração de notebook Jupyter `Demo.ipynb.` 
+   9- When finished, deactivate your virtualenv with deactivate 
    
-   Para obter mais informações sobre a base de dados utilizada para os testes e baixar o dataset consulte: (https://www.kaggle.com/datasets/rogerioifpr/brazil-weather-conventional-stations-19612019).
-
+### Uso
+<p align="justify">
+🏆 Para obter um tutorial completo de como o pacote é usado em notebooks Jupyter, consulte nossa demonstração de notebook Jupyter https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb
+   
+<p align="justify">   
+Para obter mais informações sobre a base de dados utilizada para os testes e baixar o dataset consulte: (https://www.kaggle.com/datasets/rogerioifpr/brazil-weather-conventional-stations-19612019).
+   
+### Ajuda e Suporte
+   
+Para obter ajuda com o uso ou instalação do pacote, entre em contato com Rogerio Pereira do Santos <rogerio.dosantos@ifpr.edu.br>
+   
 ## Desenvolvedor
-
+<p align="justify">
 [<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogério Santos</sub>](https://github.com/rps-ifpr) 

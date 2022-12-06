@@ -63,28 +63,37 @@ Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/stat
 
 ## Instalar e rodar o pacote
 
-Para instalar o pacote, você deve abrir com o `Pycharm ou Jupyter Notebook`. Para isso, você deve ter instalado o Python ultima versão em sua máquina:
+Para instalar o pacote, você deve abrir com o `Pycharm ou Jupyter Notebook`. Para isso, você deve ter instalado o Python última versão em sua máquina:
 
-###User installation
+### User installation
    
-- The easiest way to install stationdata is with pip
+The easiest way to install `stationdata` is with `pip`
    
-- `pip install stationdata` 
+`pip install stationdata` 
    
- Se você está tendo dificuldade em instalar as versões corretas do pacote, pode configurar um ambiente virtual como este:
-1- pip install virtualenv
-2- virtualenv env
-3- source env/bin/activate
-4- curl https://bootstrap.pypa.io/get-pip.py | python3
-5- pip install irrigation30
-6- pip install ipykernel
-7- ipython kernel install --user --name=env
-8- jupyter notebook
-9- When finished, deactivate your virtualenv with deactivate   
+#### Se você está tendo dificuldade em instalar as versões corretas do pacote, pode configurar um ambiente virtual como este:
+  
+   1- pip install virtualenv
    
+   2- virtualenv env
+   
+   3- source env/bin/activate
+   
+   4- curl https://bootstrap.pypa.io/get-pip.py | python3
+   
+   5- pip install stationdata
+   
+   6- pip install ipykernel
+   
+   7- ipython kernel install --user --name=env
+   
+   8- jupyter notebook
+   
+   9- When finished, deactivate your virtualenv with deactivate   
 
-
-O `stationdata` 🏆 
+🏆 Para obter um tutorial completo de como o pacote é usado em notebooks Jupyter, consulte nossa demonstração de notebook Jupyter `Demo.ipynb.` 
+   
+   Para obter mais informações sobre a base de dados utilizada para os testes e baixar o dataset consulte: (https://www.kaggle.com/datasets/rogerioifpr/brazil-weather-conventional-stations-19612019).
 
 ## Desenvolvedor
 

@@ -59,7 +59,7 @@ Entenda os conceitos e técnicas de pré-processamento de dados usadas para tran
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) ou acessar o projeto no PyPi no link https://pypi.org/project/stationdata/
+Você pode [acessar o código fonte do projeto](https://github.com/rps-ifpr/station_data) ou acessar o projeto no PyPi no link https://pypi.org/project/WeatherStation/
 
 ## Instalar e rodar o pacote
 

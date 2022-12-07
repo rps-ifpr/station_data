@@ -34,7 +34,7 @@
 <p align="justify">
 The project under development is a library/package in Python with the purpose of pre-processing conventional weather station data. One station is a Python package that has the main objective of helping developers or professionals who seek to treat and clean weather station data and apply it to a Machine Learning model aimed exclusively at precision irrigation.
 <p align="justify">   
-The package is available on [Pypisistema](https://pypi.org/project/onestation/) it will allow the daily, continuous and remote pre-processing of the collections carried out by conventional meteorological stations, allowing professionals and developers to apply them in their work in a fast and applied way.
+The package is available on Pypisistema (https://pypi.org/project/onestation) it will allow the daily, continuous and remote pre-processing of the collections carried out by conventional meteorological stations, allowing professionals and developers to apply them in their work in a fast and applied way.
 
 ## Application
  

@@ -28,7 +28,7 @@
 
 - [Install and run the package](#install-and-run-the-package)
 
-- [Developer](#developer)
+- [Developers](#developers)
 
 ## Project description
 <p align="justify">
@@ -107,14 +107,14 @@ For more information about the database used in the tests and to be able to down
    
 For help with using or installing the package, contact Rogerio Pereira do Santos <rogerio.dosantos@ifpr.edu.br>
    
-## Developer
+## Developers
    
 <a href="https://github.com/rps-ifpr">
-<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" alt="Rogerio Santos">
+<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" alt="Rogerio Santos" style="width:100px;height:100px;">
 </a>
 
 <a href="https://github.com/profvalderi">
-<img src="https://user-images.githubusercontent.com/91737931/206235239-ca395250-8a7c-41f5-8431-c14ee6f9bb4a.png" alt="Valderir ">
+<img src="https://user-images.githubusercontent.com/91737931/206235239-ca395250-8a7c-41f5-8431-c14ee6f9bb4a.png" alt="Valderir" style="width:100px;height:100px;">
 </a>
 
 

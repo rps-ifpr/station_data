@@ -108,6 +108,14 @@ For more information about the database used in the tests and to be able to down
 For help with using or installing the package, contact Rogerio Pereira do Santos <rogerio.dosantos@ifpr.edu.br>
    
 ## Developer
-[<img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" width=115><br><sub>Rogério Santos</sub>](https://github.com/rps-ifpr) 
-[<img src="https://user-images.githubusercontent.com/91737931/206235239-ca395250-8a7c-41f5-8431-c14ee6f9bb4a.png" width=115><br><sub>Valderi Reis Quietinho Leithardt</sub>](https://github.com/profvalderi) 
+   
+  <p> 
+     <img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" alt="https://github.com/rps-ifpr" style="float:right;width:100px;height:100px;">
+   </p> 
+   <p> 
+      <img src="https://user-images.githubusercontent.com/91737931/206235239-ca395250-8a7c-41f5-8431-c14ee6f9bb4a.png" alt="https://github.com/profvalderi"           style="float:right;width:100px;height:100px;">
+   </p> 
+
+
+
 

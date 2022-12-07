@@ -109,12 +109,9 @@ For help with using or installing the package, contact Rogerio Pereira do Santos
    
 ## Developer
    
-  <p> 
-     <img src="https://user-images.githubusercontent.com/91737931/205754797-e4247c7e-ba75-43a4-bde0-94b13fb8392e.jpg" href="https://github.com/rps-ifpr" style="float:right;width:100px;height:100px;">
-   <img src="https://user-images.githubusercontent.com/91737931/206235239-ca395250-8a7c-41f5-8431-c14ee6f9bb4a.png" href="https://github.com/profvalderi"           style="float:right;width:100px;height:100px;">
-  </p> 
-  
-     
+<a href="https://github.com/rps-ifpr">
+<img src="https://user-images.githubusercontent.com/91737931/206235239-ca395250-8a7c-41f5-8431-c14ee6f9bb4a.png" alt="Rogerio Santos">
+</a>
 
 
 

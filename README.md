@@ -9,8 +9,8 @@
                              
 <hr>
 
-<p> 
-<img src= "https://user-images.githubusercontent.com/91737931/206231529-c69f1df0-ea5b-4bb7-9ea6-2b00a9b1b7e0.png"/>
+<p align="center"> 
+<img src= "https://user-images.githubusercontent.com/91737931/206232364-7f46bbc8-442b-4f3d-b3e1-437aa53ea692.png"/>
 </p>
 
 

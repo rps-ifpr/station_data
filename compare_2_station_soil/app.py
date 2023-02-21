@@ -10,7 +10,7 @@ dados = pd.read_csv ('dados.csv')
 st.title("Dados da estação meteorológica")
 st.write("Aqui estão os dados de temperatura:")
 fig, ax = plt.subplots()
-ax.plot(data["Data"], data["Temperatura"])
+ax.plot(data["Time"], data["Indoor Temperature(°C)"])
 st.pyplot(fig)
 
 

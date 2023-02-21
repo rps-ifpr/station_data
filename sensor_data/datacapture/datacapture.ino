@@ -1,9 +1,16 @@
+#include <ThingSpeak.h>
+
+const long CHANNEL = 2038163;
+const char *WHITE_API = "YZJHSMSBTKK6CS2E";
+
+
 #define pinSensorA A0
 #define pinSensorD 8
 
 void setup() {
   pinMode(pinSensorD, INPUT);
   Serial.begin(9600);
+  ThingSpeak.begin(client); //Inicializa o ThingSpeak 
 }
 
 void loop() {
